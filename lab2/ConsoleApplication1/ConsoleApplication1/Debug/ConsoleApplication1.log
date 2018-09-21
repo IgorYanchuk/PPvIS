@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+  Zoo.cpp
+  Создание кода...
+  AssemblyInfo.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  ConsoleApplication1.vcxproj -> D:\PPViS\lab2\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\PPViS\lab2\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)
