@@ -1,0 +1,8 @@
+﻿  ATM.cpp
+ATM.cpp(35): warning C4018: <: несоответствие типов со знаком и без знака
+ATM.cpp(45): warning C4018: <: несоответствие типов со знаком и без знака
+ATM.cpp(75): warning C4018: <: несоответствие типов со знаком и без знака
+ATM.cpp(96): warning C4018: <: несоответствие типов со знаком и без знака
+  AssemblyInfo.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  ConsoleApplication1.vcxproj -> D:\PPViS\lab3\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\PPViS\lab3\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)
